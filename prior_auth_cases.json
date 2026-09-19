@@ -1,0 +1,18 @@
+[
+  {
+    "variant_id": "variant-001",
+    "input": "Process prior authorization for member 4821 for procedure X."
+  },
+  {
+    "variant_id": "variant-002",
+    "input": "Member 4821 needs prior authorization for procedure X."
+  },
+  {
+    "variant_id": "variant-003",
+    "input": "Please process procedure X authorization for member 4821."
+  },
+  {
+    "variant_id": "variant-004",
+    "input": "For member 4821, handle the authorization required for procedure X."
+  }
+]
